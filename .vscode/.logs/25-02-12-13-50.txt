@@ -1,0 +1,4 @@
+25-02-12 13:50 Session started
+----------------------------------------
+13:50:26 Document switched to: c:\Users\daria.korepov\github-classroom\TE23E-PRRPRR01\prog1-wpf-TE23E-Korepov-Daria\App.xaml
+----------------------------------------
